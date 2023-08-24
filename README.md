@@ -131,3 +131,4 @@ GSoC 2018 participants
 -----------------------
 - `Keanu Nichols <https://github.com/kmn5409/>`_
 
+Add a line.
